@@ -1,3 +1,4 @@
 # Main modules
 ollama #https://pypi.org/project/ollama/
 streamlit
+torch
