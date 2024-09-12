@@ -13,5 +13,5 @@
 ## Run Chat Interface with Streamlit
 1. Open New Terminal
 2. `pip install -r requirements.txt`
-3. `streamlit run llm_app.py`
+3. `streamlit run llm_app.py` or `python -m streamlit run llm_app.py`
 4. Open `http://localhost:8501` in the browser
